@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.Map</OriginalElement>
+  <nodes>
+    <node x="3170.8125000000005" y="472.0">java.util.TreeMap.NavigableSubMap.SubMapKeyIterator</node>
+    <node x="6180.1875" y="374.0">java.util.LinkedHashMap.LinkedValues</node>
+    <node x="6101.1875" y="472.0">java.util.LinkedHashMap.LinkedEntryIterator</node>
+    <node x="4647.8125" y="374.0">java.util.HashMap.KeyIterator</node>
+    <node x="7287.213304924243" y="374.0">java.util.Properties.LineReader</node>
+    <node x="5377.8125" y="256.0">java.util.HashMap.HashMapSpliterator</node>
+    <node x="2236.1875000000005" y="374.0">java.util.TreeMap.EntryIterator</node>
+    <node x="2978.1875000000005" y="374.0">java.util.TreeMap.AscendingSubMap</node>
+    <node x="365.25000000000045" y="374.0">java.util.TreeMap.ValueSpliterator</node>
+    <node x="6536.6875" y="472.0">java.util.LinkedHashMap.LinkedValueIterator</node>
+    <node x="4351.96875" y="0.0">java.util.Map</node>
+    <node x="6613.1875" y="374.0">java.util.LinkedHashMap.LinkedHashIterator</node>
+    <node x="7762.253353851011" y="256.0">java.util.Hashtable.Entry</node>
+    <node x="4852.8125" y="374.0">java.util.HashMap.EntryIterator</node>
+    <node x="149.00000000000045" y="256.0">java.util.TreeMap.KeySet</node>
+    <node x="4696.5625" y="256.0">java.util.HashMap.HashIterator</node>
+    <node x="5079.8125" y="374.0">java.util.HashMap.KeySpliterator</node>
+    <node x="6396.1875" y="374.0">java.util.LinkedHashMap.LinkedKeySet</node>
+    <node x="1487.1875000000005" y="374.0">java.util.TreeMap.ValueIterator</node>
+    <node x="5840.921638257576" y="472.0">java.util.HashMap.TreeNode</node>
+    <node x="5840.8125" y="256.0">java.util.HashMap.Values</node>
+    <node x="3442.8125000000005" y="472.0">java.util.TreeMap.NavigableSubMap.SubMapEntryIterator</node>
+    <node x="6935.6875" y="472.0">java.util.LinkedHashMap.LinkedKeyIterator</node>
+    <node x="6896.1875" y="374.0">java.util.LinkedHashMap.LinkedEntrySet</node>
+    <node x="1226.1875000000005" y="374.0">java.util.TreeMap.EntrySpliterator</node>
+    <node x="6844.28125" y="256.0">java.util.Hashtable.KeySet</node>
+    <node x="2852.4375000000005" y="472.0">java.util.TreeMap.AscendingSubMap.AscendingEntrySetView</node>
+    <node x="1919.1875000000005" y="374.0">java.util.TreeMap.DescendingKeyIterator</node>
+    <node x="6013.5625" y="374.0">java.util.LinkedHashMap.Entry</node>
+    <node x="1780.6875000000005" y="256.0">java.util.TreeMap.PrivateEntryIterator</node>
+    <node x="0.0" y="256.0">java.util.TreeMap.SubMap</node>
+    <node x="832.6875000000005" y="256.0">java.util.TreeMap.TreeMapSpliterator</node>
+    <node x="3629.0625000000005" y="374.0">java.util.TreeMap.NavigableSubMap.SubMapIterator</node>
+    <node x="7569.253353851011" y="256.0">java.util.Hashtable.Enumerator</node>
+    <node x="5180.9375" y="256.0">java.util.HashMap.KeySet</node>
+    <node x="5578.8125" y="374.0">java.util.HashMap.ValueSpliterator</node>
+    <node x="1214.8750000000005" y="256.0">java.util.TreeMap.Values</node>
+    <node x="4120.8125" y="472.0">java.util.TreeMap.NavigableSubMap.DescendingSubMapEntryIterator</node>
+    <node x="5368.3125" y="98.0">java.util.HashMap</node>
+    <node x="1714.1875000000005" y="374.0">java.util.TreeMap.KeyIterator</node>
+    <node x="3280.4375000000005" y="256.0">java.util.TreeMap.NavigableSubMap</node>
+    <node x="6444.9375" y="256.0">java.util.LinkedHashMap</node>
+    <node x="5989.8125" y="256.0">java.util.HashMap.Node</node>
+    <node x="2463.1875000000005" y="374.0">java.util.TreeMap.DescendingSubMap</node>
+    <node x="4420.8125" y="374.0">java.util.HashMap.ValueIterator</node>
+    <node x="661.6875000000005" y="256.0">java.util.TreeMap.EntrySet</node>
+    <node x="7137.28125" y="98.0">java.util.Hashtable</node>
+    <node x="7376.253353851011" y="256.0">java.util.Properties</node>
+    <node x="2743.0625000000005" y="374.0">java.util.TreeMap.NavigableSubMap.EntrySetView</node>
+    <node x="3736.8125000000005" y="472.0">java.util.TreeMap.NavigableSubMap.DescendingSubMapKeyIterator</node>
+    <node x="5317.8125" y="374.0">java.util.HashMap.EntrySpliterator</node>
+    <node x="6252.711687184344" y="256.0">java.util.HashMap.EntrySet</node>
+    <node x="626.2500000000005" y="374.0">java.util.TreeMap.DescendingKeySpliterator</node>
+    <node x="6993.28125" y="256.0">java.util.Hashtable.ValueCollection</node>
+    <node x="6673.28125" y="256.0">java.util.Hashtable.EntrySet</node>
+    <node x="7480.213304924243" y="374.0">java.util.Properties.XmlSupport</node>
+    <node x="1246.8750000000005" y="98.0">java.util.TreeMap</node>
+    <node x="988.1875000000005" y="374.0">java.util.TreeMap.KeySpliterator</node>
+    <node x="298.00000000000045" y="256.0">java.util.TreeMap.Entry</node>
+    <node x="2524.4375000000005" y="472.0">java.util.TreeMap.DescendingSubMap.DescendingEntrySetView</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.TreeMap.ValueSpliterator" target="java.util.TreeMap.TreeMapSpliterator">
+      <point x="60.25" y="-19.0" />
+      <point x="546.0000000000005" y="354.0" />
+      <point x="865.5625000000005" y="354.0" />
+      <point x="-98.625" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap">
+      <point x="-51.75" y="-19.0" />
+      <point x="4472.5625" y="176.0" />
+      <point x="5373.3125" y="176.0" />
+      <point x="-65.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.AscendingSubMap" target="java.util.TreeMap">
+      <point x="-57.25" y="-19.0" />
+      <point x="3035.4375000000005" y="314.0" />
+      <point x="2921.971433080809" y="314.0" />
+      <point x="2921.971433080809" y="166.0" />
+      <point x="1375.2083333333335" y="166.0" />
+      <point x="58.33333333333303" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap">
+      <point x="-37.75" y="-19.0" />
+      <point x="5878.671638257576" y="452.0" />
+      <point x="5830.3125" y="452.0" />
+      <point x="5830.3125" y="216.0" />
+      <point x="5463.3125" y="216.0" />
+      <point x="25.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap" target="java.util.Map">
+      <point x="0.0" y="-19.0" />
+      <point x="5438.3125" y="78.0" />
+      <point x="4407.385416666668" y="78.0" />
+      <point x="7.91666666666697" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.AscendingSubMap" target="java.util.TreeMap.NavigableSubMap">
+      <point x="57.25" y="-19.0" />
+      <point x="3149.9375000000005" y="344.0" />
+      <point x="3352.0000000000005" y="344.0" />
+      <point x="-42.9375" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable.Enumerator" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="7655.753353851011" y="226.0" />
+      <point x="7258.78125" y="226.0" />
+      <point x="40.5" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.EntrySet" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="737.1875000000005" y="206.0" />
+      <point x="1289.6527777777778" y="206.0" />
+      <point x="-27.222222222222626" y="19.0" />
+    </edge>
+    <edge source="java.util.Properties" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="7462.753353851011" y="236.0" />
+      <point x="7231.78125" y="236.0" />
+      <point x="13.5" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.AscendingSubMap.AscendingEntrySetView" target="java.util.TreeMap.AscendingSubMap">
+      <point x="74.25" y="-19.0" />
+      <point x="3075.1875000000005" y="452.0" />
+      <point x="3092.6875000000005" y="452.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedValueIterator" target="java.util.LinkedHashMap.LinkedHashIterator">
+      <point x="68.5" y="-19.0" />
+      <point x="6742.1875" y="452.0" />
+      <point x="6744.6875" y="452.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.SubMapIterator" target="java.util.TreeMap.NavigableSubMap">
+      <point x="0.0" y="-19.0" />
+      <point x="3738.0625000000005" y="344.0" />
+      <point x="3437.8750000000005" y="344.0" />
+      <point x="42.9375" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.SubMapEntryIterator" target="java.util.TreeMap.NavigableSubMap">
+      <point x="-68.5" y="-19.0" />
+      <point x="3511.3125000000005" y="432.0" />
+      <point x="3533.6875000000005" y="432.0" />
+      <point x="3533.6875000000005" y="354.0" />
+      <point x="3409.2500000000005" y="354.0" />
+      <point x="14.3125" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.SubMapKeyIterator" target="java.util.TreeMap.NavigableSubMap.SubMapIterator">
+      <point x="63.0" y="-19.0" />
+      <point x="3359.8125000000005" y="442.0" />
+      <point x="3656.3125000000005" y="442.0" />
+      <point x="-81.75" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingSubMap" target="java.util.TreeMap.NavigableSubMap">
+      <point x="60.25" y="-19.0" />
+      <point x="2643.9375000000005" y="324.0" />
+      <point x="3294.7500000000005" y="324.0" />
+      <point x="-100.1875" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap">
+      <point x="-60.25" y="-19.0" />
+      <point x="5378.0625" y="344.0" />
+      <point x="5367.3125" y="344.0" />
+      <point x="5367.3125" y="236.0" />
+      <point x="5433.3125" y="236.0" />
+      <point x="-5.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingKeyIterator" target="java.util.TreeMap.PrivateEntryIterator">
+      <point x="-74.25" y="-19.0" />
+      <point x="1993.4375000000005" y="354.0" />
+      <point x="1958.8125000000005" y="354.0" />
+      <point x="35.625" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.Entry" target="java.util.LinkedHashMap">
+      <point x="29.25" y="-19.0" />
+      <point x="6101.3125" y="324.0" />
+      <point x="6457.875" y="324.0" />
+      <point x="-90.5625" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingKeySpliterator" target="java.util.TreeMap.TreeMapSpliterator">
+      <point x="82.5" y="-19.0" />
+      <point x="873.7500000000005" y="354.0" />
+      <point x="931.3125000000005" y="354.0" />
+      <point x="-32.875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.SubMapEntryIterator" target="java.util.TreeMap.NavigableSubMap.SubMapIterator">
+      <point x="68.5" y="-19.0" />
+      <point x="3648.3125000000005" y="452.0" />
+      <point x="3710.8125000000005" y="452.0" />
+      <point x="-27.25" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.HashIterator" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="4794.5625" y="196.0" />
+      <point x="5393.3125" y="196.0" />
+      <point x="-45.0" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable.Entry" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="7820.753353851011" y="216.0" />
+      <point x="7285.78125" y="216.0" />
+      <point x="67.5" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedEntryIterator" target="java.util.LinkedHashMap">
+      <point x="-68.5" y="-19.0" />
+      <point x="6169.6875" y="334.0" />
+      <point x="6483.75" y="334.0" />
+      <point x="-64.6875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.KeySet" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="213.50000000000045" y="166.0" />
+      <point x="1258.5416666666674" y="166.0" />
+      <point x="-58.33333333333303" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.EntryIterator" target="java.util.TreeMap">
+      <point x="51.75" y="-19.0" />
+      <point x="2391.4375000000005" y="186.0" />
+      <point x="1359.6527777777778" y="186.0" />
+      <point x="42.777777777777374" y="19.0" />
+    </edge>
+    <edge source="java.util.Properties.XmlSupport" target="java.util.Properties">
+      <point x="0.0" y="-19.0" />
+      <point x="7566.713304924243" y="354.0" />
+      <point x="7506.003353851011" y="354.0" />
+      <point x="43.25" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.HashMapSpliterator" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="5509.3125" y="236.0" />
+      <point x="5443.3125" y="236.0" />
+      <point x="5.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.EntryIterator" target="java.util.TreeMap.PrivateEntryIterator">
+      <point x="-51.75" y="-19.0" />
+      <point x="2287.9375000000005" y="344.0" />
+      <point x="2030.0625000000005" y="344.0" />
+      <point x="106.875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.Entry" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="356.50000000000045" y="176.0" />
+      <point x="1266.3194444444448" y="176.0" />
+      <point x="-50.55555555555566" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingSubMap.DescendingEntrySetView" target="java.util.TreeMap.DescendingSubMap">
+      <point x="-77.0" y="-19.0" />
+      <point x="2601.4375000000005" y="452.0" />
+      <point x="2583.6875000000005" y="452.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.DescendingSubMapEntryIterator" target="java.util.TreeMap.NavigableSubMap">
+      <point x="96.5" y="-19.0" />
+      <point x="4410.3125" y="324.0" />
+      <point x="3495.1250000000005" y="324.0" />
+      <point x="100.1875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.ValueSpliterator" target="java.util.TreeMap">
+      <point x="-60.25" y="-19.0" />
+      <point x="425.50000000000045" y="186.0" />
+      <point x="1274.097222222223" y="186.0" />
+      <point x="-42.777777777777374" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.DescendingSubMapKeyIterator" target="java.util.TreeMap.NavigableSubMap">
+      <point x="91.0" y="-19.0" />
+      <point x="4009.8125000000005" y="452.0" />
+      <point x="3964.9375000000005" y="452.0" />
+      <point x="3964.9375000000005" y="334.0" />
+      <point x="3466.5000000000005" y="334.0" />
+      <point x="71.5625" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.KeyIterator" target="java.util.TreeMap">
+      <point x="-46.25" y="-19.0" />
+      <point x="1760.4375000000005" y="344.0" />
+      <point x="1748.0000000000005" y="344.0" />
+      <point x="1748.0000000000005" y="216.0" />
+      <point x="1336.3194444444448" y="216.0" />
+      <point x="19.444444444444343" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.KeySpliterator" target="java.util.TreeMap">
+      <point x="54.5" y="-19.0" />
+      <point x="1151.7500000000005" y="226.0" />
+      <point x="1305.2083333333335" y="226.0" />
+      <point x="-11.66666666666697" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.Entry" target="java.util.HashMap.Node">
+      <point x="-29.25" y="-19.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap.HashIterator">
+      <point x="-51.75" y="-19.0" />
+      <point x="4904.5625" y="354.0" />
+      <point x="4859.895833333334" y="354.0" />
+      <point x="65.33333333333348" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap">
+      <point x="60.25" y="-19.0" />
+      <point x="5759.5625" y="354.0" />
+      <point x="5749.347103851011" y="354.0" />
+      <point x="5749.347103851011" y="226.0" />
+      <point x="5453.3125" y="226.0" />
+      <point x="15.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.Values" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="1279.3750000000005" y="236.0" />
+      <point x="1312.9861111111118" y="236.0" />
+      <point x="-3.888888888888687" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.AscendingSubMap.AscendingEntrySetView" target="java.util.TreeMap.NavigableSubMap.EntrySetView">
+      <point x="-74.25" y="-19.0" />
+      <point x="2926.6875000000005" y="452.0" />
+      <point x="2890.0625000000005" y="452.0" />
+      <point x="49.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap">
+      <point x="-46.25" y="-19.0" />
+      <point x="4694.0625" y="344.0" />
+      <point x="4686.0625" y="344.0" />
+      <point x="4686.0625" y="186.0" />
+      <point x="5383.3125" y="186.0" />
+      <point x="-55.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap.HashMapSpliterator">
+      <point x="54.5" y="-19.0" />
+      <point x="5243.3125" y="354.0" />
+      <point x="5421.645833333334" y="354.0" />
+      <point x="-87.66666666666674" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.TreeNode" target="java.util.LinkedHashMap.Entry">
+      <point x="37.75" y="-19.0" />
+      <point x="5954.171638257576" y="452.0" />
+      <point x="6072.0625" y="452.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.PrivateEntryIterator" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="1923.1875000000005" y="206.0" />
+      <point x="1344.097222222223" y="206.0" />
+      <point x="27.222222222222626" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingSubMap" target="java.util.TreeMap">
+      <point x="-60.25" y="-19.0" />
+      <point x="2523.4375000000005" y="176.0" />
+      <point x="1367.430555555556" y="176.0" />
+      <point x="50.55555555555566" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.EntrySet" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="6328.211687184344" y="186.0" />
+      <point x="5493.3125" y="186.0" />
+      <point x="55.0" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedKeySet" target="java.util.LinkedHashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="6494.1875" y="354.0" />
+      <point x="6535.5" y="354.0" />
+      <point x="-12.9375" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedValueIterator" target="java.util.LinkedHashMap">
+      <point x="-68.5" y="-19.0" />
+      <point x="6605.1875" y="442.0" />
+      <point x="6602.6875" y="442.0" />
+      <point x="6602.6875" y="354.0" />
+      <point x="6561.375" y="354.0" />
+      <point x="12.9375" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.KeySpliterator" target="java.util.TreeMap.TreeMapSpliterator">
+      <point x="-54.5" y="-19.0" />
+      <point x="1042.6875000000005" y="354.0" />
+      <point x="997.0625000000005" y="354.0" />
+      <point x="32.875" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="6042.8125" y="196.0" />
+      <point x="5483.3125" y="196.0" />
+      <point x="45.0" y="19.0" />
+    </edge>
+    <edge source="java.util.Properties.LineReader" target="java.util.Properties">
+      <point x="0.0" y="-19.0" />
+      <point x="7373.713304924243" y="354.0" />
+      <point x="7419.503353851011" y="354.0" />
+      <point x="-43.25" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.KeyIterator" target="java.util.TreeMap.PrivateEntryIterator">
+      <point x="46.25" y="-19.0" />
+      <point x="1852.9375000000005" y="354.0" />
+      <point x="1887.5625000000005" y="354.0" />
+      <point x="-35.625" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap" target="java.util.Map">
+      <point x="0.0" y="-19.0" />
+      <point x="1316.8750000000005" y="68.0" />
+      <point x="4375.71875" y="68.0" />
+      <point x="-23.75" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.EntrySpliterator" target="java.util.TreeMap">
+      <point x="60.25" y="-19.0" />
+      <point x="1406.9375000000005" y="236.0" />
+      <point x="1320.7638888888891" y="236.0" />
+      <point x="3.888888888888687" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap.HashMapSpliterator">
+      <point x="60.25" y="-19.0" />
+      <point x="5498.5625" y="354.0" />
+      <point x="5509.3125" y="354.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable.ValueCollection" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="7107.78125" y="236.0" />
+      <point x="7204.78125" y="236.0" />
+      <point x="-13.5" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.ValueIterator" target="java.util.TreeMap.PrivateEntryIterator">
+      <point x="51.75" y="-19.0" />
+      <point x="1642.4375000000005" y="354.0" />
+      <point x="1816.3125000000005" y="354.0" />
+      <point x="-106.875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingKeySpliterator" target="java.util.TreeMap">
+      <point x="-82.5" y="-19.0" />
+      <point x="708.7500000000005" y="344.0" />
+      <point x="651.1875000000005" y="344.0" />
+      <point x="651.1875000000005" y="196.0" />
+      <point x="1281.8750000000005" y="196.0" />
+      <point x="-35.0" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap" target="java.util.Map">
+      <point x="51.75" y="-19.0" />
+      <point x="6600.1875" y="68.0" />
+      <point x="4423.21875" y="68.0" />
+      <point x="23.75" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedKeyIterator" target="java.util.LinkedHashMap.LinkedHashIterator">
+      <point x="-63.0" y="-19.0" />
+      <point x="6998.6875" y="452.0" />
+      <point x="6832.354166666667" y="452.0" />
+      <point x="87.66666666666652" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedEntrySet" target="java.util.LinkedHashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="7005.1875" y="334.0" />
+      <point x="6613.125" y="334.0" />
+      <point x="64.6875" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.DescendingSubMapEntryIterator" target="java.util.TreeMap.NavigableSubMap.SubMapIterator">
+      <point x="-96.5" y="-19.0" />
+      <point x="4217.3125" y="442.0" />
+      <point x="3819.8125000000005" y="442.0" />
+      <point x="81.75" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap" target="java.util.Map">
+      <point x="57.25" y="-19.0" />
+      <point x="3452.1875000000005" y="78.0" />
+      <point x="4391.552083333334" y="78.0" />
+      <point x="-7.91666666666697" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap.HashIterator">
+      <point x="51.75" y="-19.0" />
+      <point x="4576.0625" y="354.0" />
+      <point x="4729.229166666667" y="354.0" />
+      <point x="-65.33333333333348" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.SubMap" target="java.util.Map">
+      <point x="-32.25" y="-19.0" />
+      <point x="32.25000000000091" y="58.0" />
+      <point x="4359.885416666668" y="58.0" />
+      <point x="-39.58333333333303" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedHashIterator" target="java.util.LinkedHashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="6744.6875" y="344.0" />
+      <point x="6587.25" y="344.0" />
+      <point x="38.8125" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.Values" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="5905.3125" y="206.0" />
+      <point x="5473.3125" y="206.0" />
+      <point x="35.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.EntrySetView" target="java.util.TreeMap.NavigableSubMap">
+      <point x="0.0" y="-19.0" />
+      <point x="2841.0625000000005" y="334.0" />
+      <point x="3323.3750000000005" y="334.0" />
+      <point x="-71.5625" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap.HashIterator">
+      <point x="46.25" y="-19.0" />
+      <point x="4786.5625" y="354.0" />
+      <point x="4794.5625" y="354.0" />
+      <point x="0.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.KeySet" target="java.util.HashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="5245.4375" y="226.0" />
+      <point x="5423.3125" y="226.0" />
+      <point x="-15.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingKeyIterator" target="java.util.TreeMap">
+      <point x="74.25" y="-19.0" />
+      <point x="2141.9375000000005" y="354.0" />
+      <point x="2126.3750000000005" y="354.0" />
+      <point x="2126.3750000000005" y="196.0" />
+      <point x="1351.8750000000005" y="196.0" />
+      <point x="35.0" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedValues" target="java.util.LinkedHashMap">
+      <point x="0.0" y="-19.0" />
+      <point x="6278.1875" y="344.0" />
+      <point x="6509.625" y="344.0" />
+      <point x="-38.8125" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable" target="java.util.Map">
+      <point x="0.0" y="-19.0" />
+      <point x="7218.28125" y="58.0" />
+      <point x="4439.052083333334" y="58.0" />
+      <point x="39.58333333333303" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.EntrySpliterator" target="java.util.TreeMap.TreeMapSpliterator">
+      <point x="-60.25" y="-19.0" />
+      <point x="1286.4375000000005" y="354.0" />
+      <point x="1062.8125000000005" y="354.0" />
+      <point x="98.625" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.ValueIterator" target="java.util.TreeMap">
+      <point x="-51.75" y="-19.0" />
+      <point x="1538.9375000000005" y="226.0" />
+      <point x="1328.5416666666674" y="226.0" />
+      <point x="11.66666666666697" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.DescendingSubMapKeyIterator" target="java.util.TreeMap.NavigableSubMap.SubMapIterator">
+      <point x="-91.0" y="-19.0" />
+      <point x="3827.8125000000005" y="452.0" />
+      <point x="3765.3125000000005" y="452.0" />
+      <point x="27.25" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedKeyIterator" target="java.util.LinkedHashMap">
+      <point x="63.0" y="-19.0" />
+      <point x="7124.6875" y="324.0" />
+      <point x="6639.0" y="324.0" />
+      <point x="90.5625" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.TreeMapSpliterator" target="java.util.TreeMap">
+      <point x="0.0" y="-19.0" />
+      <point x="964.1875000000005" y="216.0" />
+      <point x="1297.430555555556" y="216.0" />
+      <point x="-19.444444444444343" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap.SubMapKeyIterator" target="java.util.TreeMap.NavigableSubMap">
+      <point x="-63.0" y="-19.0" />
+      <point x="3233.8125000000005" y="354.0" />
+      <point x="3380.6250000000005" y="354.0" />
+      <point x="-14.3125" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable.EntrySet" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="6748.78125" y="216.0" />
+      <point x="7150.78125" y="216.0" />
+      <point x="-67.5" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.DescendingSubMap.DescendingEntrySetView" target="java.util.TreeMap.NavigableSubMap.EntrySetView">
+      <point x="77.0" y="-19.0" />
+      <point x="2755.4375000000005" y="452.0" />
+      <point x="2792.0625000000005" y="452.0" />
+      <point x="-49.0" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap.LinkedEntryIterator" target="java.util.LinkedHashMap.LinkedHashIterator">
+      <point x="68.5" y="-19.0" />
+      <point x="6306.6875" y="452.0" />
+      <point x="6657.020833333334" y="452.0" />
+      <point x="-87.66666666666652" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap">
+      <point x="-54.5" y="-19.0" />
+      <point x="5134.3125" y="216.0" />
+      <point x="5413.3125" y="216.0" />
+      <point x="-25.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap.HashMapSpliterator">
+      <point x="-60.25" y="-19.0" />
+      <point x="5639.0625" y="354.0" />
+      <point x="5596.979166666667" y="354.0" />
+      <point x="87.66666666666674" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.NavigableSubMap" target="java.util.TreeMap">
+      <point x="-57.25" y="-19.0" />
+      <point x="3337.6875000000005" y="156.0" />
+      <point x="1382.9861111111118" y="156.0" />
+      <point x="66.11111111111131" y="19.0" />
+    </edge>
+    <edge source="java.util.LinkedHashMap" target="java.util.HashMap">
+      <point x="-51.75" y="-19.0" />
+      <point x="6496.6875" y="176.0" />
+      <point x="5503.3125" y="176.0" />
+      <point x="65.0" y="19.0" />
+    </edge>
+    <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap">
+      <point x="51.75" y="-19.0" />
+      <point x="5008.0625" y="354.0" />
+      <point x="5000.763770517677" y="354.0" />
+      <point x="5000.763770517677" y="206.0" />
+      <point x="5403.3125" y="206.0" />
+      <point x="-35.0" y="19.0" />
+    </edge>
+    <edge source="java.util.TreeMap.SubMap" target="java.util.TreeMap">
+      <point x="32.25" y="-19.0" />
+      <point x="96.75" y="156.0" />
+      <point x="1250.7638888888891" y="156.0" />
+      <point x="-66.11111111111131" y="19.0" />
+    </edge>
+    <edge source="java.util.Hashtable.KeySet" target="java.util.Hashtable">
+      <point x="0.0" y="-19.0" />
+      <point x="6908.78125" y="226.0" />
+      <point x="7177.78125" y="226.0" />
+      <point x="-40.5" y="19.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="261.0" y="114.0" />
+  <SelectedNodes>
+    <node>java.util.Map</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
